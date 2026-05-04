@@ -1,0 +1,575 @@
+2026-05-02 16:20:51,998 - game_logger - INFO - GameEvaluator initialized
+2026-05-02 16:20:51,999 - game_logger - INFO - GameEvaluator initialized
+2026-05-02 16:20:51,999 - game_logger - INFO - Game #1 completed | Difficulty: Easy | Result: WON | Attempts: 3 | Win Rate: 100.0%
+2026-05-02 16:20:52,000 - game_logger - INFO - GameEvaluator initialized
+2026-05-02 16:20:52,000 - game_logger - INFO - Game #1 completed | Difficulty: Easy | Result: WON | Attempts: 3 | Win Rate: 100.0%
+2026-05-02 16:20:52,000 - game_logger - INFO - Game #2 completed | Difficulty: Normal | Result: LOST | Attempts: 5 | Win Rate: 50.0%
+2026-05-02 16:20:52,000 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 2,
+  "games_won": 1,
+  "games_lost": 1,
+  "win_rate_percent": 50.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 4.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T16:20:52.000262"
+}
+2026-05-02 16:20:52,000 - game_logger - INFO - GameEvaluator initialized
+2026-05-02 16:20:52,000 - game_logger - ERROR - [Invalid Input] User entered non-numeric value
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Guess validation test passed: 50
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Guess validation test passed: not_a_number
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Guess validation test passed: 
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Guess validation test passed: 50.5
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Guess validation test passed: None
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Hint test passed: guess=50, secret=50
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Hint test passed: guess=60, secret=50
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Hint test passed: guess=40, secret=50
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Hint test passed: guess=1, secret=100
+2026-05-02 16:20:52,001 - game_logger - INFO - ✓ Hint test passed: guess=100, secret=99
+2026-05-02 16:22:02,961 - game_logger - INFO - GameEvaluator initialized
+2026-05-02 16:22:03,000 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:22:03.000125"
+}
+2026-05-02 16:38:32,932 - game_logger - INFO - GameEvaluator initialized
+2026-05-02 16:38:32,961 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:38:32.961211"
+}
+2026-05-02 16:39:00,222 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:39:00.222231"
+}
+2026-05-02 16:39:00,275 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:39:00.275568"
+}
+2026-05-02 16:39:08,785 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:39:08.785488"
+}
+2026-05-02 16:39:11,203 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:39:11.203927"
+}
+2026-05-02 16:39:16,476 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:39:16.475859"
+}
+2026-05-02 16:39:19,523 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:39:19.522986"
+}
+2026-05-02 16:49:49,693 - game_logger - INFO - GameEvaluator initialized
+2026-05-02 16:49:49,729 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:49:49.728998"
+}
+2026-05-02 16:49:50,154 - game_logger - INFO - GameEvaluator initialized
+2026-05-02 16:49:50,163 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:49:50.163536"
+}
+2026-05-02 16:49:56,706 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:49:56.706001"
+}
+2026-05-02 16:49:58,488 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:49:58.488715"
+}
+2026-05-02 16:50:02,265 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:02.265626"
+}
+2026-05-02 16:50:02,358 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:02.358565"
+}
+2026-05-02 16:50:10,018 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:10.018858"
+}
+2026-05-02 16:50:10,115 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:10.115433"
+}
+2026-05-02 16:50:11,269 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:11.269134"
+}
+2026-05-02 16:50:13,315 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:13.315919"
+}
+2026-05-02 16:50:15,712 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:15.712545"
+}
+2026-05-02 16:50:15,819 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:15.819527"
+}
+2026-05-02 16:50:17,653 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:17.653230"
+}
+2026-05-02 16:50:33,949 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:33.949463"
+}
+2026-05-02 16:50:34,039 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:34.039523"
+}
+2026-05-02 16:50:40,433 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:40.432958"
+}
+2026-05-02 16:50:40,515 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:40.515028"
+}
+2026-05-02 16:50:43,104 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:43.104183"
+}
+2026-05-02 16:50:43,230 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:43.230034"
+}
+2026-05-02 16:50:47,300 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:47.300128"
+}
+2026-05-02 16:50:50,272 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:50.272379"
+}
+2026-05-02 16:50:55,650 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:55.650682"
+}
+2026-05-02 16:50:56,125 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:50:56.125236"
+}
+2026-05-02 16:51:01,369 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:51:01.368904"
+}
+2026-05-02 16:51:01,492 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:51:01.492746"
+}
+2026-05-02 16:51:06,670 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 0,
+  "games_won": 0,
+  "games_lost": 0,
+  "win_rate_percent": 0,
+  "error_rate_percent": 0,
+  "average_attempts": 0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100,
+  "timestamp": "2026-05-02T16:51:06.670730"
+}
+2026-05-02 16:51:06,768 - game_logger - INFO - Game #1 completed | Difficulty: Normal | Result: LOST | Attempts: 8 | Win Rate: 0.0%
+2026-05-02 16:51:06,785 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T16:51:06.785728"
+}
+2026-05-02 17:40:20,099 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T17:40:20.099480"
+}
+2026-05-02 17:51:14,146 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T17:51:14.145476"
+}
+2026-05-02 18:08:59,154 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T18:08:59.152920"
+}
+2026-05-02 18:21:25,891 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T18:21:25.890141"
+}
+2026-05-02 18:54:31,240 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T18:54:31.236722"
+}
+2026-05-02 19:15:51,558 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T19:15:51.558270"
+}
+2026-05-02 23:11:22,459 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T23:11:22.459731"
+}
+2026-05-02 23:46:31,536 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-02T23:46:31.535803"
+}
+2026-05-03 00:28:15,208 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-03T00:28:15.205671"
+}
+2026-05-03 22:28:41,183 - game_logger - INFO - Reliability Report Generated: {
+  "total_games": 1,
+  "games_won": 0,
+  "games_lost": 1,
+  "win_rate_percent": 0.0,
+  "error_rate_percent": 0.0,
+  "average_attempts": 8.0,
+  "ai_hint_accuracy_percent": 0,
+  "total_errors": 0,
+  "system_reliability": 100.0,
+  "timestamp": "2026-05-03T22:28:41.183094"
+}
